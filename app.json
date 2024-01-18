@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "GoogleSignIn",
+    "plugins": ["@react-native-google-signin/google-signin"],
     "slug": "GoogleSignIn",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,13 +19,20 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.selva06.GoogleSignIn"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d67a4b85-2f99-4116-a84b-fe38cd5cff75"
+      }
     }
   }
 }

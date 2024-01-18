@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631549079777",
+    "project_id": "signin-839e7",
+    "storage_bucket": "signin-839e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631549079777:android:38e2913fbbf6c9125d47a0",
+        "android_client_info": {
+          "package_name": "com.selva06.GoogleSignIn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631549079777-sr2uskqmuim7nt19o7rv936e4s3kln9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selva06.GoogleSignIn",
+            "certificate_hash": "dc10a104af071e2ff775c78a4ec9d05439335b81"
+          }
+        },
+        {
+          "client_id": "631549079777-g5svh9cg1ralev9f98ai1n7cvvc1lk99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8mJYVI6Mpor89rRWCcMbwn8r0t5JZajA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631549079777-g5svh9cg1ralev9f98ai1n7cvvc1lk99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
